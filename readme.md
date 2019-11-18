@@ -23,7 +23,7 @@ The project consists of three distinct files:
 
 ## Findings during training
 
-* At first, I tried to use AlexNet because I did not know any better. As it turns out, it is useless for this classification problem because it has nothing with the classification problem AlexNet solves. All it did was slow down the training process significantly.
+* At first, I tried to use AlexNet because I did not know any better. As it turns out, it is useless for this classification problem because it not similar to the classification problem that AlexNet solves. All it did was slow down the training process significantly.
 
 * After that, I tried the following network:
 
